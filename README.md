@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm [Your Name]! I'm a passionate software development student from Bulgaria.  
+👋 Hi, I'm Plamen! I'm a passionate software development student from Bulgaria.  
 I thrive on building innovative solutions, solving complex problems, and contributing to open-source projects.  
 Always eager to learn new technologies and collaborate on exciting projects!  
 
